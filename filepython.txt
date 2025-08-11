@@ -1,0 +1,2 @@
+Puka, Konda erripuka Chi Dengey
+Hey I am inside in the text file using with statement
